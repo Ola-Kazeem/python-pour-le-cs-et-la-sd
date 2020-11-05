@@ -81,8 +81,12 @@ pour fournir des commentaires ou signaler des erreurs, soit créer [a pull reque
    5. Créez une [Pull Request](https://help.github.com/en/articles/creating-a-pull-request) de votre branche dans la branche principale.
    
  Les liens ci-dessous peuvent vous aider pour vos pull request:
+ 
    a. [Faire une pull-request](http://thelia-school.com/faire-une-pull-request-sur-un-projet-thelia/faire-une-pull-request.html).
+   
    b. [Git_Pull_Request](https://www.atlassian.com/fr/git/tutorials/making-a-pull-request).
+   
    c. [GitHub_Pull_Request](https://docs.joomla.org/Using_the_Github_UI_to_Make_Pull_Requests/fr).
+   
  
 ### Instructeur: [Yaé Ulrich Gaba](https://github.com/gabayae).
